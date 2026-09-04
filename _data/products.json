@@ -1,6 +1,136 @@
 [
 
   {
+"name": "Plavi kamen rinfuza",
+"slug": "plavi-kamen-rinfuza",
+"category": "Sredstva za zaštitu bilja",
+"price": "1100 RSD/kg",
+"image": "assets/images/plavi-kamen-rinfuza.webp",
+"short_description": "Plavi kamen u rinfuzi je bakar-sulfat koji se koristi za pripremu sredstava za zaštitu biljaka i različite potrebe u poljoprivredi.",
+"description": "Bakar-sulfat, poznat kao plavi kamen, predstavlja tradicionalno sredstvo koje se koristi kao izvor bakra u zaštiti voća, vinove loze i drugih biljaka. Često se koristi za pripremu bordovske čorbe, koja se primenjuje u zaštiti biljaka od različitih gljivičnih i bakterijskih bolesti.<br><br>Posebno je značajan u zaštiti voćnjaka i vinograda, gde se preparati na bazi bakra koriste tokom perioda mirovanja biljaka i u određenim fazama vegetacije. Prilikom pripreme rastvora potrebno je precizno pratiti preporučenu koncentraciju i način primene za konkretnu kulturu.<br><br>Plavi kamen se može koristiti i za druge poljoprivredne potrebe povezane sa nedostatkom bakra, ali količinu i način primene treba prilagoditi nameni. Nije preporučljivo samostalno povećavati koncentraciju, jer veće količine bakra mogu izazvati oštećenja biljaka.<br><br>Proizvod se prodaje u rinfuzi po kilogramu, što omogućava kupovinu količine prilagođene potrebama korisnika. Pri rukovanju koristiti odgovarajuću zaštitnu opremu i pridržavati se uputstva i preporuka za bezbednu primenu."
+},
+
+  {
+"name": "Muholovka traka",
+"slug": "muholovka-traka",
+"category": "Dodaci",
+"price": "50 RSD",
+"image": "assets/images/muholovka-traka.webp",
+"short_description": "Muholovka traka je lepljiva zamka namenjena za hvatanje muva i smanjenje njihovog prisustva u domaćinstvima, objektima i prostorima gde se drže životinje.",
+"description": "Traka funkcioniše bez upotrebe insekticida, tako što lepljiva površina privlači i zadržava muve koje na nju slete. Jednostavna je za postavljanje i ne zahteva posebno održavanje tokom korišćenja.<br><br>Može se koristiti u kućama, ostavama, garažama, pomoćnim objektima, štalama i drugim prostorima u kojima se pojavljuje veći broj muva. Najbolje je postaviti je na mestima gde se insekti najčešće zadržavaju, ali van domašaja dece i kućnih ljubimaca.<br><br>Traka je praktično rešenje za kontinuirano smanjenje broja muva, posebno tokom toplijih meseci kada je njihova aktivnost povećana. Kada se lepljiva površina napuni insektima ili izgubi efikasnost, potrebno je zameniti je novom."
+},
+
+  {
+"name": "Mospilan 2,5 g insekticid",
+"slug": "mospilan-2-5g-insekticid",
+"category": "Insekticidi",
+"price": "100 RSD",
+"image": "assets/images/mospilan-2-5g-insekticid.webp",
+"short_description": "Mospilan je sistemični insekticid na bazi acetamiprida, namenjen suzbijanju lisnih vaši, tripsa i drugih štetnih insekata na različitim poljoprivrednim kulturama.",
+"description": "Mospilan 20 SP sadrži 200 g/kg acetamiprida i pripada grupi neonikotinoida. Nakon primene aktivna materija se usvaja kroz biljne delove i omogućava delovanje na insekte koji se hrane tretiranom biljkom. Posebno je koristan protiv lisnih vaši, tripsa, bele leptiraste vaši, cikada i nekih drugih štetočina.<br><br>Preparat se koristi na različitim kulturama, uključujući voće, povrće i ukrasno bilje, pri čemu konkretna registrovana namena zavisi od kulture i štetočine. Kod jabuke se, na primer, koristi protiv lisnih vaši i jabukinog smotavca, dok se na povrću može koristiti protiv vaši i tripsa, u skladu sa registrovanom primenom.<br><br>Tretiranje se obavlja prskanjem biljaka kada se pojave štetočine, uz nastojanje da preparat ravnomerno dospe na biljne delove na kojima se insekti hrane. Količina preparata zavisi od kulture, ciljne štetočine i načina primene, zato dozu uvek treba određivati prema važećoj deklaraciji proizvoda.<br><br>Pakovanje od 2,5 g namenjeno je za pripremu manje količine rastvora i praktično je za tretiranje manjih bašti, voćnjaka i zasada. Prilikom upotrebe obavezno koristiti zaštitnu opremu i pridržavati se propisane karence, doziranja i svih uputstava sa deklaracije."
+},
+
+  {
+"name": "Microtiol 50 g fungicid",
+"slug": "microtiol-50g-fungicid",
+"category": "Fungicidi",
+"price": "100 RSD",
+"image": "assets/images/microtiol-50g-fungicid.webp",
+"short_description": "Microtiol je fungicid na bazi sumpora namenjen zaštiti biljaka od pepelnice i drugih gljivičnih oboljenja.",
+"description": "Preparat na bazi sumpora deluje prvenstveno kontaktno i koristi se za zaštitu biljaka od gljivičnih patogena. Posebno je značajan u suzbijanju pepelnice, oboljenja koje se prepoznaje po beličastoj prevlaci na listovima, mladarima i drugim zelenim delovima biljke.<br><br>Može se koristiti u zaštiti različitih poljoprivrednih kultura, uključujući vinovu lozu, voće, povrće i ukrasno bilje, u zavisnosti od registrovane namene preparata. Najbolji efekat postiže se preventivnom primenom ili na početku razvoja bolesti, pre nego što se infekcija značajnije proširi.<br><br>Prilikom tretiranja važno je ravnomerno pokriti biljne delove koje je potrebno zaštititi. Sumporni preparati mogu izazvati oštećenja biljaka pri visokim temperaturama, pa primenu treba obavljati u skladu sa deklaracijom proizvoda i preporučenim vremenskim uslovima.<br><br>Pakovanje od 50 g praktično je za manje površine, bašte i kućne zasade. Pre upotrebe obavezno pročitati deklaraciju i pridržavati se registrovanih kultura, doza i mera zaštite."
+},
+
+  {
+"name": "Gorka so (Magnezijum sulfat) 60 g",
+"slug": "gorka-so-magnezijum-sulfat-60g",
+"category": "Đubriva",
+"price": "150 RSD",
+"image": "assets/images/gorka-so-magnezijum-sulfat-60g.webp",
+"short_description": "Gorka so je magnezijum sulfat koji se koristi kao dopunska prihrana biljaka kada je potrebno obezbediti magnezijum i sumpor.",
+"description": "Magnezijum ima važnu ulogu u stvaranju hlorofila i odvijanju fotosinteze, dok sumpor učestvuje u stvaranju pojedinih biljnih proteina. Gorka so se zato može koristiti kod biljaka kojima je potrebno dodatno snabdevanje ovim hranljivim elementima.<br><br>Može se primenjivati kod različitih biljaka, uključujući povrće, voće, ukrasno bilje i cveće. Kod nedostatka magnezijuma često se prvo primećuje žućenje starijih listova između lisnih nerava, dok nervi ostaju zeleniji.<br><br>Preparat se može koristiti za prihranu putem zemljišta ili kao folijarna prihrana, u zavisnosti od kulture i preporučene koncentracije. Prilikom rastvaranja u vodi potrebno je dobro promešati sredstvo, a dozu prilagoditi potrebama biljke kako bi se izbegla prekomerna primena.<br><br>Pakovanje od 60 g praktično je za kućne biljke, cveće, povrće i manje baštenske površine gde je potrebna manja količina magnezijum sulfata."
+},
+
+  {
+"name": "Krompir Desire 1 kg",
+"slug": "krompir-desire-1kg",
+"category": "Semenski materijal",
+"price": "90 RSD",
+"image": "assets/images/krompir-desire-1kg.webp",
+"short_description": "Desire je srednje kasna sorta crvenog krompira holandskog porekla, poznata po dobrom prinosu i atraktivnoj crvenoj pokožici.",
+"description": "Sorta Desire odlikuje se crvenom pokožicom i svetložutim mesom, a krtole su pravilnog, izduženog ovalnog oblika. Biljka ima dobru sposobnost formiranja prinosa, zbog čega je pogodna za različite uslove proizvodnje.<br><br>Desire se može koristiti za kuvanje, pečenje i pripremu različitih jela od krompira. Srednje kasan period vegetacije omogućava formiranje krupnijih krtola, dok dobra sposobnost čuvanja čini ovu sortu pogodnom i za skladištenje nakon berbe.<br><br>Za sadnju je važno koristiti zdrave i kvalitetne krtole, pripremiti rastresito i dobro drenirano zemljište i obezbediti dovoljno vlage tokom razvoja biljke. Količina sadnog materijala po površini zavisi od krupnoće krtola i razmaka koji se koristi pri sadnji.<br><br>Pakovanje od 1 kg praktično je za manje bašte i individualnu proizvodnju, posebno za proizvođače koji žele da zasade manju površinu crvenom sortom krompira."
+},
+
+  {
+"name": "Glifomark 200 ml totalni herbicid",
+"slug": "glifomark-200ml-totalni-herbicid",
+"category": "Herbicidi",
+"price": "200 RSD",
+"image": "assets/images/glifomark-200ml-totalni-herbicid.webp",
+"short_description": "Glifomark 200 ml je sistemični neselektivni herbicid sa 480 g/l glifosata, namenjen suzbijanju jednogodišnjih i višegodišnjih širokolisnih i uskolisnih korova.",
+"description": "Preparat se usvaja preko lisne mase korova i kroz biljku se kreće naviše i naniže, čime deluje i na podzemne delove višegodišnjih korovskih vrsta. Namenjen je primeni na strništima, nepoljoprivrednim površinama, kao i u zasadima voća i vinove loze, uz izbegavanje kontakta sa gajenim biljkama.<br><br>Glifomark deluje na veliki broj korova, uključujući sirak, divlji sirak iz rizoma, pirevinu, palamidu, slak, zubaču, štir, ambroziju, pepeljugu, mišjakinju, tatulu, divlju kupinu, bokvicu i druge jednogodišnje i višegodišnje korovske vrste. Za najbolji efekat tretiranje se obavlja kada su korovi u aktivnom porastu.<br><br>Doza zavisi od vrste i razvijenosti korova. Za jednogodišnje korove najčešće se koriste niže doze, dok su za razvijene višegodišnje vrste potrebne veće količine preparata. Na manjim površinama preporučena koncentracija može biti 1% za jednogodišnje, odnosno 2% za višegodišnje korove, ali primenu uvek treba prilagoditi registrovanoj nameni i deklaraciji proizvoda.<br><br>Pošto je Glifomark neselektivan herbicid, potrebno je sprečiti zanošenje sredstva na lišće i zelene delove gajenih biljaka. Pre upotrebe obavezno pročitati deklaraciju i pridržavati se propisanih doza, načina primene i mera zaštite."
+},
+
+  {
+"name": "Zemlja za cveće Florabela 20/1",
+"slug": "zemlja-za-cvece-florabela-20-1",
+"category": "Zemlja i supstrati",
+"price": "600 RSD",
+"image": "assets/images/zemlja-za-cvece-florabela-5-1.webp",
+"short_description": "Florabela zemlja za cveće u pakovanju od 20 litara namenjena je za sadnju i presađivanje sobnih, balkonskih i baštenskih ukrasnih biljaka.",
+"description": "Veće pakovanje je praktično kada se istovremeno presađuje više biljaka ili priprema veći broj saksija i žardinjera. Supstrat se ravnomerno raspoređuje oko korena, bez preteranog sabijanja, kako bi biljka imala odgovarajuću podlogu za razvoj.<br><br>Pre sadnje zemlju treba rastresti, a nakon postavljanja biljke izvršiti umereno zalivanje. Dalju prihranu i režim zalivanja treba prilagoditi potrebama konkretne vrste cveća i uslovima u kojima se biljka uzgaja.<br><br>Pakovanje od 20 litara odgovara potrebama domaćinstava, ljubitelja cveća i manjih baštenskih zasada, posebno kada je potrebna veća količina supstrata za redovno presađivanje i održavanje biljaka."
+},
+
+  {
+"name": "Zemlja za cveće Florabela 5 Litara",
+"slug": "zemlja-za-cvece-florabela-5-litara",
+"category": "Zemlja i supstrati",
+"price": "200 RSD",
+"image": "assets/images/zemlja-za-cvece-florabela-5-1.webp",
+"short_description": "Florabela zemlja za cveće u pakovanju od 5 litara praktična je za sadnju i presađivanje sobnih, balkonskih i drugih ukrasnih biljaka.",
+"description": "Supstrat se može koristiti prilikom formiranja novih zasada u saksijama i žardinjerama, kao i pri presađivanju biljaka kojima je potrebna sveža podloga za dalji rast. Pre sadnje zemlju treba rastresti i ravnomerno rasporediti oko korenovog sistema.<br><br>Nakon presađivanja biljku je potrebno umereno zaliti kako bi se supstrat slegao i ostvario dobar kontakt sa korenom. Dalju negu treba prilagoditi zahtevima konkretne biljne vrste, uključujući količinu svetlosti, zalivanje i prihranu.<br><br>Pakovanje od 5 litara odgovara manjim saksijama i pojedinačnim sadnjama, pa je pogodno za održavanje cveća u stanu, na balkonu, terasi ili u manjoj bašti."
+},
+
+  {
+"name": "Zemlja za cveće Florabela 10/1",
+"slug": "zemlja-za-cvece-florabela-10-1",
+"category": "Zemlja i supstrati",
+"price": "350 RSD",
+"image": "assets/images/zemlja-za-cvece-florabela-10-1.webp",
+"short_description": "Florabela zemlja za cveće u pakovanju od 10 litara namenjena je za sadnju i negu sobnog, balkonskog i baštenskog cveća.",
+"description": "Florabela supstrat predstavlja praktičnu podlogu za uzgoj različitih ukrasnih biljaka, posebno pri presađivanju i formiranju novih zasada u saksijama i žardinjerama.<br><br>Pre upotrebe zemlju je potrebno rastresti, a prilikom sadnje biljku postaviti u pripremljenu saksiju i ravnomerno popuniti prostor oko korena. Nakon sadnje preporučuje se umereno zalivanje kako bi se supstrat ravnomerno navlažio.<br><br>Pakovanje od 10 litara pogodno je za redovno održavanje cveća u domaćinstvu, na terasama, balkonima i u baštama. Za optimalan razvoj biljaka važno je prilagoditi zalivanje, prihranu i uslove uzgoja konkretnoj vrsti cveća."
+},
+
+  {
+"name": "Fides 200 SC insekticid",
+"slug": "fides-200-sc-insekticid",
+"category": "Sredstva za zaštitu bilja",
+"price": "100 RSD",
+"image": "assets/images/fides-200-sc-insekticid.webp",
+"short_description": "Fides 200 SC je insekticid na bazi flonikamida 200 g/l, namenjen suzbijanju zelene vaši jabuke u jabuci i zelene breskvine vaši u paprici.",
+"description": "Fides 200 SC deluje na vaši tako što blokira njihovu ishranu, zbog čega štetočine prestaju da se hrane i postepeno uginu. Posebno je namenjen za suzbijanje zelene vaši jabuke (Aphis pomi) u zasadima jabuke i zelene breskvine vaši (Myzus persicae) u usevu paprike. Preparat pripada IRAC grupi 29 i formulisan je kao koncentrovana suspenzija (SC).<br><br>U jabuci se primenjuje folijarnim prskanjem u koncentraciji 0,03–0,035%, odnosno 3–3,5 ml preparata na 10 l vode. Tretiranje se obavlja na početku formiranja prvih kolonija vaši, uz utrošak 600–1000 l vode po hektaru. Karenca za jabuku iznosi 21 dan.<br><br>U paprici se primenjuje u količini od 300–350 ml/ha, što odgovara približno 3–3,5 ml na 100 m², uz utrošak 300–600 l vode po hektaru. Najbolji efekat postiže se kada se tretiranje sprovede nakon pojave prvih kolonija zelene breskvine vaši. Karenca za papriku iznosi 5 dana.<br><br>Fides 200 SC ne treba mešati sa preparatima alkalne reakcije. Pre upotrebe obavezno pročitati deklaraciju i originalno uputstvo na pakovanju i pridržavati se registrovanih kultura, doza i propisanih mera zaštite."
+},
+
+  {
+"name": "Fertor 25/1 organsko đubrivo",
+"slug": "fertor-25-1-organsko-djubrivo",
+"category": "Đubriva",
+"price": "80 RSD",
+"image": "assets/images/fertor-25-1-organsko-djubrivo.webp",
+"short_description": "Fertor 25/1 je organsko đubrivo namenjeno prihrani i poboljšanju uslova za rast biljaka u poljoprivredi i baštovanstvu.",
+"description": "Organsko đubrivo Fertor može se koristiti kao deo redovne nege zemljišta, sa ciljem obezbeđivanja organske materije i stvaranja povoljnijih uslova za razvoj biljaka.<br><br>Pogodno je za različite vrste useva, povrće, voće i druge biljke, a praktično pakovanje od 25 kg odgovara potrebama domaćinstava i manjih poljoprivrednih gazdinstava."
+},
+
+  {
+"name": "Džak za žito 55×110 cm",
+"slug": "dzak-za-zito-55x110cm",
+"category": "Ambalaža",
+"price": "40 RSD",
+"image": "assets/images/dzak-za-zito-55x110cm.webp",
+"short_description": "Džak za žito dimenzija 55×110 cm namenjen je za pakovanje, skladištenje i transport žitarica i drugih rasutih poljoprivrednih proizvoda.",
+"description": "Prostrane dimenzije od 55×110 cm omogućavaju smeštanje veće količine sadržaja, što ga čini praktičnim za radove tokom žetve i pripremu proizvoda za skladištenje.<br><br>Pogodan je za čuvanje pšenice, kukuruza, ječma i drugih žitarica, kao i za različite potrebe na gazdinstvu kada je potrebno jednostavno pakovanje i rukovanje rasutim materijalom."
+},
+
+  {
 "name": "Džak Rashel 40×60",
 "slug": "dzak-rashel-40x60",
 "category": "Ambalaža",

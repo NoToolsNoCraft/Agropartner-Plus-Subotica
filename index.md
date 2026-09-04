@@ -7,7 +7,7 @@ title: Poljoprivredna oprema Subotica
     <section class="hero">
 
         <p class="hero-eyebrow">
-            Zajedno do boljih prinosa!
+            Da vam učinimo život lakšim!
         </p>
 
         <h1>
@@ -17,7 +17,7 @@ title: Poljoprivredna oprema Subotica
 
         <p class="hero-description">
             Pronađite kvalitetnu opremu i proizvode
-            za svakodnevne potrebe savremene poljoprivrede.
+            za svakodnevne potrebe savremene poljoprivrede, kao i održavanja domaćinstva.
         </p>
 
         <a href="/proizvodi/" class="hero-button">
@@ -210,7 +210,9 @@ title: Poljoprivredna oprema Subotica
             </h3>
 
             <p>
+            <a href="https://maps.app.goo.gl/kj8TFrCE2HVRxdEP6">
                 TRG JAKABA I KOMORA 25, 24000, Subotica
+            </a>
             </p>
 
             <p>

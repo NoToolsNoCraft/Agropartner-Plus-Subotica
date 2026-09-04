@@ -1,5 +1,7 @@
 ---
-title: O nama
+layout: default
+title: O Nama
+permalink: /o-nama/
 ---
 
 <div class="container">
