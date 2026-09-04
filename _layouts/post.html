@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="container">
+
+    <article class="post">
+
+        <header class="post-header">
+
+            <p class="post-date">
+                Objavljeno: {{ page.date | date: "%d.%m.%Y." }}
+            </p>
+            <p class="post-date">
+                Autor: Stevan Đuričin
+            </p>
+
+            <h1>{{ page.title }}</h1>
+
+        </header>
+
+        <div class="post-content">
+
+            {{ content }}
+
+        </div>
+
+    </article>
+
+</div>

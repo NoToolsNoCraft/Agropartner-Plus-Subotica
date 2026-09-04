@@ -1,0 +1,16 @@
+# 1. Set Windows console to UTF-8
+chcp 65001
+
+# 2. Clean up old build files
+Remove-Item -Path "_site" -Recurse -Force
+
+# 3. CRITICAL FIX: Set environment to 'production' for the build command
+# This forces the SEO tag and Sitemap plugins
+$env:JEKYLL_ENV="production"
+bundle exec jekyll build --verbose
+# $env:JEKYLL_ENV="development" # REMOVED: Do NOT reset the environment here!
+
+# 4. Serve locally (The 'jekyll serve' command will now inherit JEKYLL_ENV="production"
+# which prevents its implicit rebuild from overwriting the sitemap/canonical URLs
+# with 'localhost' links.)
+bundle exec jekyll serve

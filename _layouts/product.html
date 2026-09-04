@@ -1,0 +1,132 @@
+---
+layout: default
+---
+
+<div class="container">
+
+  <article class="product">
+
+    <div class="product-layout">
+
+      <!-- Left side: Image -->
+      <div class="product-media">
+        <img
+          src="{{ page.product.image | relative_url }}"
+          alt="{{ page.product.name }}"
+          class="product-image"
+        >
+      </div>
+
+      <!-- Right side: Content -->
+      <div class="product-info">
+
+        <p class="product-category">
+          {{ page.product.category }}
+        </p>
+
+        <h1>{{ page.product.name }}</h1>
+
+        <p class="product-price">
+          {{ page.product.price }}
+        </p>
+
+        <p class="product-short-description">
+          {{ page.product.short_description }}
+        </p>
+
+        <div class="product-description">
+          {{ page.product.description }}
+        </div>
+
+      </div>
+
+    </div>
+
+  </article>
+
+
+  <!-- Purchase Information -->
+
+  <section class="purchase-info">
+
+    <div class="purchase-info-content">
+
+      <p class="section-eyebrow">
+        Kupovina
+      </p>
+
+      <h2>
+        Želite da kupite ovaj proizvod?
+      </h2>
+
+      <p class="purchase-info-intro">
+        Proizvod možete kupiti u našoj prodavnici u Subotici.
+        Pozovite nas ili nas posetite i rado ćemo vam pomoći.
+      </p>
+
+
+      <div class="purchase-details">
+
+        <!-- Phone -->
+
+        <div class="purchase-detail">
+
+          <h3>
+            Pozovite nas
+          </h3>
+
+          <p>Mobilni: 
+            <a href="tel:+38169695946">
+              +381 69 695 946
+            </a>
+          </p>
+          <p>Telefon iz radnje:
+            <a href="tel:+381024692692">
+              024 692 692
+            </a>
+          </p>
+
+        </div>
+
+
+        <!-- Address -->
+
+        <div class="purchase-detail">
+
+          <h3>
+            Posetite nas
+          </h3>
+
+          <p>
+            TRG JAKABA I KOMORA 25, 24000, Subotica
+          </p>
+          <p>
+            (Kod Mlečne Pijace)
+          </p>
+
+        </div>
+
+
+        <!-- Opening Hours -->
+
+        <div class="purchase-detail">
+
+          <h3>
+            Radno vreme
+          </h3>
+
+          <p>
+            Ponedeljak – Petak: 7:30 – 14:00<br>
+            Subota: 7:00 – 13:00<br>
+            Nedelja: Zatvoreno
+          </p>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </section>
+
+</div>

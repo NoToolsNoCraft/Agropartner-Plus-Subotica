@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="sr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>{{ page.title }} | {{ site.title }}</title>
+
+    {% seo %}
+
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TSNVTTBC');</script>
+<!-- End Google Tag Manager -->
+
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TSNVTTBC"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header class="site-header">
+
+    <div class="container">
+
+        <a href="/" class="logo">
+            Agropartner Plus Subotica
+        </a>
+
+        <nav class="main-nav">
+            
+            <a href="/proizvodi/">Proizvodi</a>
+            <a href="/blog/">Blog</a>
+        </nav>
+
+    </div>
+
+</header>
+
+
+<main>
+
+    {{ content }}
+
+</main>
+
+
+<footer class="site-footer">
+
+    <div class="container">
+        <p><a href="/o-nama/">O Nama</a></p>
+        <p>
+           2026 &copy; {{ site.title }}
+        </p>
+
+    </div>
+
+</footer>
+
+</body>
+</html>
