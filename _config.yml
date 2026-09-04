@@ -1,6 +1,7 @@
 title: Agropartner Plus
 description: Poljoprivredna oprema i proizvodi za savremenu poljoprivredu u Subotici. Pogledajte našu ponudu i pronađite proizvode za zaštitu i negu useva.
 url: "https://agropartnerplus.rs"
+baseurl: ""
 lang: sr
 
 plugins:
