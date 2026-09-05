@@ -1,6 +1,56 @@
 [
 
   {
+"name": "Vilotrin 50 g insekticid",
+"slug": "vilotrin-50g-insekticid",
+"category": "Insekticidi",
+"price": "500 RSD",
+"image": "assets/images/vilotrin-50g-insekticid.webp",
+"short_description": "Vilotrin 10 WP je biocidni insekticid sa 10% lambda-cihalotrina namenjen suzbijanju bubašvaba, mrava, muva i komaraca u objektima i prostorima za dezinsekciju.",
+"description": "Vilotrin deluje kontaktno i digestivno, a aktivna materija lambda-cihalotrin pripada grupi piretroida. Preparat se koristi za tretiranje zidova i podova stambenih objekata, štala, staja i drugih prostora u kojima se pojavljuju štetni insekti.<br><br>Posebno je namenjen za suzbijanje crne bubašvabe (Blatta orientalis), smeđe bubašvabe (Blattella germanica), žutih mrava (Monomorium pharaonis), kućne muve (Musca domestica), stajske muve (Stomoxys calcitrans) i komaraca. Deluje kada insekti dođu u kontakt sa tretiranom površinom.<br><br>Za pripremu radnog rastvora koristi se 50 g preparata na 10 litara vode. Kod tretiranja protiv bubašvaba preporučuje se 40–50 ml radnog rastvora po m², dok se za muve i komarce koristi 50 ml po m². Rastvor treba nanositi na površine na kojima se insekti najčešće kreću i zadržavaju.<br><br>Pakovanje od 50 g praktično je za pripremu 10 litara radnog rastvora. Preparat je namenjen dezinsekciji, a ne zaštiti gajenih biljaka, pa ga treba koristiti isključivo u registrovanim prostorima i prema uputstvu sa deklaracije."
+},
+
+  {
+"name": "Teatar 5 ml fungicid",
+"slug": "teatar-5ml-fungicid",
+"category": "Fungicidi",
+"price": "150 RSD",
+"image": "assets/images/teatar-5ml-fungicid.webp",
+"short_description": "Teatar 5 ml je fungicid namenjen zaštiti biljaka od gljivičnih oboljenja i očuvanju zdravog razvoja useva.",
+"description": "Teatar se koristi za zaštitu biljaka od gljivičnih patogena koji mogu izazvati pojavu pega, truleži i drugih simptoma na listovima, plodovima i mladim biljnim delovima. Preparat je namenjen primeni u poljoprivredi u skladu sa registrovanim kulturama i bolestima.<br><br>Najbolji rezultati postižu se kada se tretiranje sprovede preventivno ili u početnim fazama razvoja bolesti, pre nego što se infekcija značajnije proširi. Način primene i koncentraciju potrebno je prilagoditi kulturi koja se tretira i konkretnoj bolesti.<br><br>Pakovanje od 5 ml praktično je za manje zasade, bašte i individualnu upotrebu. Pre primene obavezno proveriti deklaraciju proizvoda, registrovane namene, preporučenu dozu, broj tretmana i propisanu karencu."
+},
+
+  {
+"name": "Tonus Mospilan 2,5 g",
+"slug": "tonus-mospilan-2-5g",
+"category": "Insekticidi",
+"price": "50 RSD",
+"image": "assets/images/tonus-mospilan-2-5g.webp",
+"short_description": "Tonus Mospilan 2,5 g je insekticid na bazi acetamiprida namenjen suzbijanju lisnih vaši, tripsa i drugih štetnih insekata na poljoprivrednim kulturama.",
+"description": "Preparat sadrži acetamiprid, sistemičnu aktivnu materiju koja se usvaja kroz biljne delove i deluje na insekte koji se hrane tretiranom biljkom. Namenjen je zaštiti od štetočina kao što su lisne vaši, tripsi, bela leptirasta vaš i određene druge vrste insekata, u zavisnosti od registrovane primene.<br><br>Tretiranje se obavlja prskanjem biljaka kada se primete prve štetočine, pri čemu je važno dobro pokriti biljne delove na kojima se insekti zadržavaju. Sistemично delovanje omogućava aktivnoj materiji da dospe i u biljna tkiva koja nisu direktno pogođena prskanjem.<br><br>Može se koristiti na različitim vrstama voća, povrća i ukrasnog bilja, ali se konkretna doza, kultura, ciljna štetočina i broj tretmana moraju odrediti prema važećoj deklaraciji proizvoda. Ne preporučuje se povećavanje koncentracije iznad propisane doze.<br><br>Pakovanje od 2,5 g pogodno je za tretiranje manjih površina i kućnih bašta. Prilikom primene koristiti odgovarajuću zaštitnu opremu i pridržavati se svih uputstava proizvođača, uključujući propisanu karencu."
+},
+
+  {
+"name": "Signum fungicid 8 g",
+"slug": "signum-fungicid-8g",
+"category": "Fungicidi",
+"price": "200 RSD",
+"image": "assets/images/signum-fungicid-8g.webp",
+"short_description": "Signum je fungicid kombinovanog delovanja namenjen zaštiti voća i povrća od različitih gljivičnih oboljenja, uključujući botritis i pepelnicu.",
+"description": "Signum sadrži dve aktivne materije, boskalid i piraklostrobin, koje deluju na različite načine i pružaju širok spektar zaštite od gljivičnih patogena. Zbog kombinovanog mehanizma delovanja koristi se za zaštitu biljaka od bolesti koje mogu smanjiti prinos i kvalitet plodova.<br><br>Posebno se koristi protiv sive truleži (Botrytis cinerea) i pepelnice, a registrovana primena obuhvata više kultura, među kojima su jagoda, malina, kupina, vinova loza, paradajz i druge povrtarske i voćarske kulture, u zavisnosti od registracije preparata.<br><br>Tretiranje se obavlja prskanjem biljaka, a vreme primene zavisi od kulture i bolesti koja se suzbija. Za najbolji efekat preparat treba primeniti preventivno ili u ranim fazama razvoja bolesti, pre njenog većeg širenja. Dozu i broj tretmana potrebno je prilagoditi konkretnoj kulturi i važećoj deklaraciji proizvoda.<br><br>Pakovanje od 8 g praktično je za pripremu manje količine rastvora i namenjeno je korisnicima koji tretiraju manje zasade, bašte ili pojedinačne kulture. Pre upotrebe obavezno pročitati deklaraciju i pridržavati se propisanog doziranja, karence i mera zaštite."
+},
+
+  {
+"name": "Osnovna pogača za pčele",
+"slug": "osnovna-pogaca-za-pcele",
+"category": "Pčelarstvo",
+"price": "250 RSD",
+"image": "assets/images/osnovna-pogaca-za-pcele.webp",
+"short_description": "Osnovna pogača za pčele namenjena je prihrani pčelinjih društava kada u prirodi nema dovoljno dostupne hrane.",
+"description": "Pčelinja pogača predstavlja čvrstu dopunsku hranu koja se postavlja direktno u košnicu, najčešće iznad klubeta i satonoša, kako bi pčele mogle lako da joj pristupe. Posebno je korisna tokom zime i ranog proleća, kada su spoljašnji izvori hrane ograničeni.<br><br>Može se koristiti kao pomoćna prihrana kada pčelinje društvo nema dovoljno sopstvenih zaliha meda ili kada vremenski uslovi ne omogućavaju izletanje pčela. Količinu i učestalost prihrane treba prilagoditi jačini društva i postojećim zalihama hrane u košnici.<br><br>Prilikom postavljanja pogače važno je da bude dostupna pčelama i da se košnica nepotrebno ne otvara tokom hladnog vremena. Redovno proveravanje stanja pogače i zaliha hrane omogućava pčelaru da pravovremeno reaguje ukoliko društvu ponestane hrane."
+},
+
+  {
 "name": "Plavi kamen rinfuza",
 "slug": "plavi-kamen-rinfuza",
 "category": "Sredstva za zaštitu bilja",
@@ -13,7 +63,7 @@
   {
 "name": "Muholovka traka",
 "slug": "muholovka-traka",
-"category": "Dodaci",
+"category": "Dezinsekcija",
 "price": "50 RSD",
 "image": "assets/images/muholovka-traka.webp",
 "short_description": "Muholovka traka je lepljiva zamka namenjena za hvatanje muva i smanjenje njihovog prisustva u domaćinstvima, objektima i prostorima gde se drže životinje.",
@@ -103,7 +153,7 @@
   {
 "name": "Fides 200 SC insekticid",
 "slug": "fides-200-sc-insekticid",
-"category": "Sredstva za zaštitu bilja",
+"category": "Insekticidi",
 "price": "100 RSD",
 "image": "assets/images/fides-200-sc-insekticid.webp",
 "short_description": "Fides 200 SC je insekticid na bazi flonikamida 200 g/l, namenjen suzbijanju zelene vaši jabuke u jabuci i zelene breskvine vaši u paprici.",

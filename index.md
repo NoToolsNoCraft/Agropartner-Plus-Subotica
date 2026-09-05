@@ -11,13 +11,13 @@ title: Poljoprivredna oprema Subotica
         </p>
 
         <h1>
-            Poljoprivredna oprema
+            Poljoprivredni proizvodi
             za pouzdaniji rad
         </h1>
 
         <p class="hero-description">
             Pronađite kvalitetnu opremu i proizvode
-            za svakodnevne potrebe savremene poljoprivrede, kao i održavanja domaćinstva.
+            za svakodnevne potrebe savremene poljoprivrede, kao i održavanja domaćinstva.<br><br>Naš asortiman uključuje sredstva za zaštitu bilja, đubriva, prihranu i negu bilja, semena, razne alate za baštu, opremu za zalivanje itd. 
         </p>
 
         <a href="/proizvodi/" class="hero-button">
