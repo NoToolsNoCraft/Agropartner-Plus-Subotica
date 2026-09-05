@@ -1,5 +1,5 @@
 ---
-title: Poljoprivredna oprema Subotica
+title: Poljoprivredna Apoteka Subotica
 ---
 
 <div class="container">
@@ -193,7 +193,7 @@ title: Poljoprivredna oprema Subotica
 
             <p>
                 Telefon iz radnje:
-                <a href="tel:+381024692692">
+                <a href="tel:+38124692692">
                     024 692 692
                 </a>
             </p>
