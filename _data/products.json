@@ -1,6 +1,16 @@
 [
 
   {
+"name": "Ampligo 5 ml insekticid",
+"slug": "ampligo-5ml-insekticid",
+"category": "Insekticidi",
+"price": "300 RSD",
+"image": "assets/images/ampligo-5ml-insekticid.webp",
+"short_description": "Ampligo 150 ZC je nesistemični insekticid sa kontaktnim i digestivnim delovanjem, namenjen suzbijanju gusenica i drugih štetočina na različitim poljoprivrednim kulturama.",
+"description": "Ampligo kombinuje dve aktivne materije, hlorantraniliprol i lambda-cihalotrin, koje deluju kroz različite mehanizme. Hlorantraniliprol posebno deluje na larve štetočina, dok lambda-cihalotrin daje brzo kontaktno i digestivno delovanje. Ova kombinacija omogućava delovanje na više razvojnih stadijuma insekata.<br><br>Na kukuruzu se koristi protiv kukuruznog plamenca (Ostrinia nubilalis), dok je na kukuruzu šećercu registrovan i protiv pamukove sovice (Helicoverpa armigera). U paradajzu suzbija pamukovu sovicu i moljca paradajza (Tuta absoluta), a u krompiru krompirovu zlaticu. Registrovana primena obuhvata i kupus protiv malog kupusara i vinovu lozu protiv sivog, odnosno pepeljastog grožđanog moljca.<br><br>Vreme tretiranja zavisi od kulture i štetočine. Kod krompira se primenjuje na početku piljenja larvi i nakon pojave prvih larvi trećeg stadijuma, dok se kod paradajza tretiranje obavlja u vreme pojave štetočina. Kod kukuruza je važno pratiti pojavu i let kukuruznog plamenca kako bi se tretman sproveo u odgovarajućem trenutku.<br><br>Doza zavisi od kulture: na kukuruzu se koristi 0,2–0,25 l/ha, na krompiru 0,3 l/ha, dok je za paradajz preporučena količina 0,4 l/ha. Karenca iznosi 3 dana za paradajz, 7 dana za kukuruz i kukuruz šećerac, a 14 dana za krompir i kupus. Pre upotrebe obavezno proveriti važeću deklaraciju proizvoda i pridržavati se registrovane namene i propisanih mera zaštite. "
+},
+
+  {
 "name": "Vilotrin 50 g insekticid",
 "slug": "vilotrin-50g-insekticid",
 "category": "Insekticidi",
