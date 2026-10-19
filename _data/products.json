@@ -1,5 +1,337 @@
 [
 
+  
+{
+  "name": "Semesan Ekstra 200 g",
+  "slug": "semesan-ekstra-200g",
+  "category": "Fungicidi",
+  "price": "300 RSD",
+  "image": "assets/images/semesan-ekstra-200g.webp",
+  "short_description": "Glavna namena: Suzbijanje prouzrokovača glavnice pšenice (Tilletia tritici).",
+  "description": "Aktivna materija: Tebukonazol (15 g/kg u prašivom obliku). <br>Način delovanja: Ima preventivno, kurativno i eradikativno delovanje (štiti seme i mladu biljku od klijanja do pojave prvih listova). <br>Količina primene: 200 g preparata na 100 kg semena pšenice (za standardni prašiv oblik). <br>Vreme primene: Neposredno pred setvu (suvim postupkom zaprašivanja u zatvorenim uređajima)"
+},
+  
+{
+  "name": "Blumi tečno đubrivo za hortenzije 500 ml",
+  "slug": "blumi-tecno-djubrivo-za-hortenzije-500ml",
+  "category": "Đubriva i prihrana",
+  "price": "450 RSD",
+  "image": "assets/images/blumi-tecno-djubrivo-za-hortenzije-500ml.webp",
+  "short_description": "Tečna prihrana namenjena hortenzijama za negu tokom rasta i cvetanja.",
+  "description": "Blumi tečno đubrivo za hortenzije koristi se za dopunu hranljivih sastojaka potrebnih ovim ukrasnim biljkama. Redovna prihrana, uz odgovarajuće zalivanje i uslove gajenja, pomaže u održavanju vitalnosti biljke i podržava razvoj cvetova. Praktično pakovanje od 500 ml pogodno je za kućnu upotrebu i negu hortenzija u saksijama ili bašti. Način primene i doziranje prilagodite uputstvu na deklaraciji."
+},
+  
+{
+  "name": "Substral Cactus tečno đubrivo 250 ml",
+  "slug": "substral-cactus-tecno-djubrivo-250ml",
+  "category": "Đubriva i prihrana",
+  "price": "400 RSD",
+  "image": "assets/images/substral-cactus-tecno-djubrivo-250ml.webp",
+  "short_description": "Specijalizovana tečna prihrana za kaktuse i sukulente koji se uzgajaju u saksijama.",
+  "description": "Substral Cactus namenjen je prihrani kaktusa i sukulenata tokom perioda rasta. Formulacija za ovu grupu biljaka prilagođena je njihovim potrebama i pogodna za primenu prilikom zalivanja. Redovna prihrana, uz odgovarajuću količinu svetlosti i pažljivo zalivanje, doprinosi pravilnom razvoju biljaka. Primenjujte prema doziranju i učestalosti navedenim na deklaraciji proizvoda."
+},
+  
+{
+  "name": "Substral Citrus tečno đubrivo 250 ml",
+  "slug": "substral-citrus-tecno-djubrivo-250ml",
+  "category": "Đubriva i prihrana",
+  "price": "400 RSD",
+  "image": "assets/images/substral-citrus-tecno-djubrivo-250ml.webp",
+  "short_description": "Specijalizovana tečna prihrana za citruse u saksijama i druge biljke kojima odgovara ovakva formulacija.",
+  "description": "Substral Citrus namenjen je prihrani citrusa koji se uzgajaju u kućnim uslovima, na terasama ili u baštama. Redovna prihrana pomaže da biljke dobiju hranljive sastojke potrebne za zdrav rast i razvoj. Đubrivo se dodaje u vodu za zalivanje u preporučenoj koncentraciji, čime se olakšava njegova primena tokom sezone rasta. Doziranje: 1 čep na 2 litra vode."
+},
+  
+{
+  "name": "Substral tečno đubrivo 1 l",
+  "slug": "substral-tecno-djubrivo-1l",
+  "category": "Đubriva i prihrana",
+  "price": "800 RSD",
+  "image": "assets/images/substral-tecno-djubrivo-1l.webp",
+  "short_description": "Tečno đubrivo za jednostavnu i redovnu prihranu biljaka tokom perioda rasta.",
+  "description": "Substral tečno đubrivo koristi se kao dopuna ishrani biljaka tokom vegetacije. Primenjuje se razblaživanjem u vodi za zalivanje, što olakšava ravnomernu raspodelu hranljivih sastojaka. Pre upotrebe proverite deklaraciju proizvoda radi tačne namene, preporučene doze i učestalosti prihrane, jer se Substral proizvodi razlikuju prema vrsti biljaka i sastavu."
+},
+  
+{
+  "name": "Substral tečno đubrivo 250 ml",
+  "slug": "substral-tecno-djubrivo-250ml",
+  "category": "Đubriva i prihrana",
+  "price": "300 RSD",
+  "image": "assets/images/substral-tecno-djubrivo-250ml.webp",
+  "short_description": "Praktično tečno đubrivo za redovnu prihranu biljaka tokom vegetacije.",
+  "description": "Substral tečno đubrivo namenjeno je prihrani biljaka kojima su potrebni dodatni hranljivi sastojci za rast i razvoj. Tečna formulacija omogućava jednostavno doziranje i primenu razblaživanjem u vodi za zalivanje. Koristite ga prema uputstvu na ambalaži, jer se preporučena koncentracija i učestalost primene mogu razlikovati u zavisnosti od vrste đubriva i biljaka za koje je namenjeno."
+},
+  
+{
+  "name": "Substral tečno đubrivo 500 ml",
+  "slug": "substral-tecno-djubrivo-500ml",
+  "category": "Đubriva i prihrana",
+  "price": "450 RSD",
+  "image": "assets/images/substral-tecno-djubrivo-500ml.webp",
+  "short_description": "Tečno đubrivo Substral za prihranu biljaka, praktično za redovnu negu cveća i drugih biljaka koje se uzgajaju u domaćinstvu.",
+  "description": "Substral tečno đubrivo namenjeno je dopuni hranljivih materija tokom rasta biljaka. Tečna formulacija omogućava jednostavno pripremanje rastvora i primenu prilikom zalivanja, što olakšava redovnu negu biljaka u saksijama i drugim uslovima uzgoja.<br><br>Pravilna prihrana, uz odgovarajuće osvetljenje, zalivanje i kvalitetan supstrat, doprinosi održavanju biljaka u dobroj kondiciji. Potrebe za hranljivim materijama razlikuju se u zavisnosti od vrste biljke i faze razvoja, pa je važno koristiti preparat u skladu sa njegovom deklarisanom namenom.<br><br>Preporučeno doziranje koje ste naveli je jedan čep na 2 litra vode. Pre primene proverite da li se ova doza podudara sa uputstvom na konkretnom pakovanju, jer Substral ima različite formulacije đubriva. Nemojte prekoračivati preporučenu koncentraciju."
+},
+  
+{
+  "name": "Agro univerzalno tečno đubrivo 1 litra",
+  "slug": "agro-univerzalno-tecno-djubrivo-1l",
+  "category": "Đubriva i prihrana",
+  "price": "500 RSD",
+  "image": "assets/images/agro-univerzalno-tecno-djubrivo-1l.webp",
+  "short_description": "Univerzalno tečno đubrivo za prihranu različitih vrsta ukrasnih i baštenskih biljaka tokom vegetacije.",
+  "description": "Agro univerzalno tečno đubrivo namenjeno je redovnoj dopuni hranljivih materija kod biljaka koje se gaje u domaćinstvu, na terasama, balkonima i u baštama. Univerzalna namena omogućava njegovu primenu na različitim vrstama cveća i drugih biljaka, u skladu sa njihovim potrebama i deklaracijom proizvoda.<br><br>Tečna formulacija olakšava pripremu rastvora za prihranu prilikom zalivanja. Redovno snabdevanje hranljivim materijama, uz odgovarajuću količinu svetlosti, vode i kvalitetan supstrat, doprinosi pravilnom rastu i održavanju biljaka u dobroj kondiciji.<br><br>Preporučeno doziranje je jedan čep đubriva na 2 litra vode. Pridržavajte se uputstva na ambalaži i nemojte prekoračivati preporučenu koncentraciju. Učestalost primene prilagodite vrsti biljke, sezoni i fazi razvoja."
+},
+  
+{
+  "name": "Floraline tečno đubrivo za orhideje 250 ml",
+  "slug": "floraline-tecno-djubrivo-za-orhideje-250ml",
+  "category": "Đubriva i prihrana",
+  "price": "300 RSD",
+  "image": "assets/images/floraline-tecno-djubrivo-za-orhideje-250ml.webp",
+  "short_description": "Specijalizovana tečna prihrana za orhideje, namenjena redovnoj nezi ovih dekorativnih biljaka tokom rasta i cvetanja.",
+  "description": "Orhideje zahtevaju pažljivo prilagođenu negu, posebno kada se uzgajaju u zatvorenom prostoru. Odgovarajuća prihrana pomaže u dopuni hranljivih materija koje biljke koriste za razvoj novih listova, korena i cvetnih stabljika.<br><br>Floraline tečno đubrivo namenjeno je prihrani orhideja koje se gaje u saksijama, kod kuće ili u drugim zatvorenim prostorima. Tečna formulacija omogućava jednostavno pripremanje rastvora i praktičnu primenu tokom redovne nege biljaka.<br><br>Preporučeno doziranje je jedan čep đubriva na 2 litra vode. Rastvor pripremajte i koristite prema uputstvu na ambalaži, vodeći računa o stanju biljke i periodu njenog razvoja. Izbegavajte prekomernu prihranu i proverite deklaraciju za preporučenu učestalost primene."
+},
+
+{
+  "name": "Floraline tečno đubrivo za cvetajuće i lisnato cveće 500 ml",
+  "slug": "floraline-tecno-djubrivo-cvetajuce-lisnato-cvece-500ml",
+  "category": "Đubriva i prihrana",
+  "price": "350 RSD",
+  "image": "assets/images/floraline-tecno-djubrivo-cvetajuce-lisnato-cvece-500ml.webp",
+  "short_description": "Univerzalna tečna prihrana za sobno, balkonsko i drugo ukrasno cveće, pogodna za biljke koje se uzgajaju zbog dekorativnih listova ili cvetova.",
+  "description": "Floraline tečno đubrivo namenjeno je dopuni hranljivih materija kod različitih ukrasnih biljaka tokom vegetacije. Može se koristiti u redovnoj nezi cvetajućeg i lisnatog cveća koje se gaji u saksijama, žardinjerama i drugim posudama u domu ili na otvorenom.<br><br>Pravilna prihrana, uz odgovarajuće osvetljenje, zalivanje i kvalitetan supstrat, pomaže biljkama da održavaju dobru kondiciju i nastave normalan rast. Potrebe se razlikuju u zavisnosti od vrste biljke, godišnjeg doba i faze razvoja, pa je važno prilagoditi negu konkretnim uslovima uzgoja.<br><br>Preporučeno doziranje je jedan čep đubriva na 2,5 litra vode. Pripremljeni rastvor koristite prema uputstvu na ambalaži i nemojte prekoračivati navedenu koncentraciju. Učestalost primene proverite na deklaraciji proizvoda."
+},
+  
+{
+  "name": "Agro Citrus 500 ml",
+  "slug": "agro-citrus-500ml",
+  "category": "Đubriva i prihrana",
+  "price": "600 RSD",
+  "image": "assets/images/agro-citrus-500ml.webp",
+  "short_description": "Tečno đubrivo namenjeno prihrani citrusa, uključujući limun, mandarinu, pomorandžu i druge srodne voćne vrste koje se gaje u saksijama ili bašti.",
+  "description": "Citrusi koji se uzgajaju u saksijama i baštama zahtevaju redovnu negu i odgovarajuću ishranu kako bi održali zdrav izgled, razvijali nove listove i uspešno formirali cvetove i plodove. Agro Citrus je namenjen dopuni hranljivih materija kod ovih biljaka tokom perioda rasta.<br><br>Posebna prihrana za citruse može biti korisna kod limuna, mandarine, pomorandže, limete i drugih vrsta koje se uzgajaju kao ukrasne ili voćne biljke. Za dobar razvoj važno je kombinovati pravilnu prihranu sa odgovarajućim zalivanjem, dovoljno svetlosti i supstratom koji omogućava dobru drenažu.<br><br>Pre upotrebe proverite deklaraciju proizvoda za tačan sastav, preporučenu dozu i učestalost primene. Nemojte prekoračivati propisanu koncentraciju, jer prekomerna prihrana može oštetiti koren i negativno uticati na razvoj biljke."
+},
+  
+{
+  "name": "Floraline tečno đubrivo za cvetajuće i lisnato cveće 1 litra",
+  "slug": "floraline-tecno-djubrivo-cvetajuce-lisnato-cvece-1l",
+  "category": "Đubriva i prihrana",
+  "price": "400 RSD",
+  "image": "assets/images/floraline-tecno-djubrivo-cvetajuce-lisnato-cvece-1l.webp",
+  "short_description": "Univerzalno tečno đubrivo za prihranu cvetajućih i lisnatih ukrasnih biljaka, pogodno za redovnu negu sobnog i balkonskog cveća.",
+  "description": "Floraline tečno đubrivo namenjeno je prihrani različitih ukrasnih biljaka, bez obzira na to da li se prvenstveno uzgajaju zbog dekorativnih listova ili lepih cvetova. Dopuna hranljivih materija tokom vegetacije pomaže u održavanju biljaka u dobroj kondiciji i podržava njihov rast u skladu sa uslovima uzgoja.<br><br>Može se koristiti za biljke u saksijama, žardinjerama i drugim posudama, što ga čini praktičnim izborom za negu cveća u domu, na terasi ili balkonu. Odgovarajuća prihrana najbolje rezultate daje uz pravilno zalivanje, dovoljno svetlosti i supstrat prilagođen potrebama biljke.<br><br>Preporučeno doziranje je jedan čep đubriva na 1,5–2 litra vode. Rastvor primenjujte prema uputstvu na ambalaži i nemojte prekoračivati navedenu koncentraciju. Učestalost prihrane prilagodite vrsti biljke, sezoni i njenoj fazi razvoja."
+},
+  
+{
+  "name": "Floraline Guano organska prihrana 1 litra",
+  "slug": "floraline-guano-organska-prihrana-1l",
+  "category": "Đubriva i prihrana",
+  "price": "500 RSD",
+  "image": "assets/images/floraline-guano-organska-prihrana-1l.webp",
+  "short_description": "Tečna organska prihrana na bazi guana, namenjena dopuni hranljivih materija kod sobnih, balkonskih i baštenskih biljaka.",
+  "description": "Guano je organsko đubrivo dobijeno od izmeta ptica, poznato po sadržaju hranljivih materija koje biljkama mogu biti potrebne tokom rasta i razvoja. Floraline Guano u tečnom obliku omogućava jednostavno pripremanje rastvora i praktičnu primenu pri redovnoj nezi biljaka.<br><br>Može se koristiti za prihranu različitih ukrasnih i baštenskih biljaka, u skladu sa deklaracijom proizvoda i njihovim potrebama. Redovna prihrana, uz odgovarajuće zalivanje, osvetljenje i uslove uzgoja, doprinosi pravilnoj nezi biljaka tokom vegetacije.<br><br>Preporučeno doziranje je jedan čep preparata na 2–3 litra vode. Rastvor pripremite i primenjujte prema uputstvu na ambalaži, bez prekoračenja preporučene koncentracije. Sastav i sadržaj hranljivih materija proverite na deklaraciji kako biste prihranu prilagodili konkretnim biljkama."
+},
+  
+{
+  "name": "Floraline prihrana za cvetajuće cveće 1 l",
+  "slug": "floraline-prihrana-za-cvetajuce-cvece-1l",
+  "category": "Đubriva i prihrana",
+  "price": "650 RSD",
+  "image": "assets/images/floraline-prihrana-za-cvetajuce-cvece-1l.webp",
+  "short_description": "Tečna prihrana za cvetajuće biljke, namenjena podršci zdravom rastu i razvoju cvetova tokom vegetacije.",
+  "description": "Biljkama koje cvetaju potrebna je redovna i uravnotežena ishrana kako bi mogle da razvijaju nove pupoljke i održe dobru kondiciju tokom sezone. Floraline prihrana za cvetajuće cveće namenjena je dopuni hranljivih materija kod ukrasnih biljaka koje se gaje u saksijama, žardinjerama i na cvetnim površinama.<br><br>Tečni oblik omogućava jednostavno pripremanje rastvora za prihranu prilikom zalivanja. Preporučeno doziranje je jedan čep preparata na 3–4 litra vode. Rastvor primenjujte prema uputstvu na ambalaži i potrebama biljaka, naročito tokom perioda aktivnog rasta i cvetanja.<br><br>Uz prihranu, za dobro cvetanje važno je obezbediti odgovarajuću količinu svetlosti, pravilno zalivanje i dobru drenažu. Nemojte prekoračivati preporučenu dozu, jer prekomerna koncentracija hranljivih materija može oštetiti biljke. Za preporučenu učestalost primene pratite deklaraciju proizvoda."
+},
+  
+{
+  "name": "Floraline prihrana za muškatle 1 litar",
+  "slug": "floraline-prihrana-za-muskatle-1l",
+  "category": "Đubriva i prihrana",
+  "price": "650 RSD",
+  "image": "assets/images/floraline-prihrana-za-muskatle-1l.webp",
+  "short_description": "Specijalizovana tečna prihrana za muškatle, namenjena redovnoj nezi biljaka koje krase balkone, terase i dvorišta.",
+  "description": "Muškatle su popularne zbog dugog perioda cvetanja i raznovrsnih boja cvetova, ali za lep izgled i kontinuirano formiranje novih cvetova potrebni su im odgovarajući uslovi i redovna nega. Floraline prihrana namenjena je dopuni hranljivih materija tokom rasta i cvetanja, kada biljke troše više energije za razvoj novih izdanaka i cvetova.<br><br>Tečna formulacija omogućava jednostavno doziranje i primenu prilikom zalivanja. Preporučena količina je jedan čep preparata na 3–4 litra vode. Pripremljen rastvor koristite u skladu sa uputstvom na ambalaži, vodeći računa o stanju biljke i uslovima uzgoja.<br><br>Za obilnije cvetanje važno je obezbediti muškatlama dovoljno svetlosti, umereno zalivanje i dobru drenažu. Izbegavajte prekoračenje preporučene doze prihrane, jer prevelika koncentracija hranljivih materija može oštetiti koren. Učestalost primene proverite na deklaraciji proizvoda."
+},
+  
+{
+  "name": "Floraline prihrana za lisnato cveće 1 litar",
+  "slug": "floraline-prihrana-za-lisnato-cvece-1l",
+  "category": "Đubriva i prihrana",
+  "price": "600 RSD",
+  "image": "assets/images/floraline-prihrana-za-lisnato-cvece-1l.webp",
+  "short_description": "Tečna prihrana za lisnate sobne biljke, namenjena podršci zdravom rastu i razvoju dekorativnih listova.",
+  "description": "Floraline prihrana za lisnato cveće namenjena je redovnoj nezi sobnih biljaka kod kojih su bujno lišće i lep izgled listova važan deo dekorativnosti. Pravilna prihrana pomaže biljkama da dobiju hranljive materije potrebne za rast tokom vegetacije.<br><br>Tečni oblik omogućava jednostavno pripremanje rastvora za zalivanje. Preporučeno doziranje je jedan čep preparata na 3–4 litra vode. Rastvor pripremite neposredno pre upotrebe i primenjujte ga prema potrebama biljke i uputstvu na ambalaži.<br><br>Za najbolje rezultate, biljke držite u uslovima koji odgovaraju njihovoj vrsti, uz pravilno osvetljenje i zalivanje. Nemojte prekoračivati preporučenu dozu, jer prekomerna prihrana može oštetiti koren i lišće. Pre upotrebe proverite deklaraciju proizvoda za dodatne smernice o učestalosti primene."
+},
+  
+{
+  "name": "Galition Ultra 1 kg",
+  "slug": "galition-ultra-1kg",
+  "category": "Insekticidi",
+  "price": "600 RSD",
+  "image": "assets/images/galition-ultra-1kg.webp",
+  "short_description": "Granulisani zemljišni insekticid proizvođača Galenika-Fitofarmacija, namenjen suzbijanju larvi žičnjaka u poljoprivrednoj proizvodnji.",
+  "description": "Galition Ultra sadrži teflutrin u koncentraciji od 5 g/kg i pripada grupi piretroidnih insekticida. Deluje kontaktno i inhalaciono, uz dodatno digestivno delovanje na osetljive štetočine. Posebno je namenjen zaštiti biljaka od žičnjaka (Agriotes spp.), čije larve žive u zemljištu i mogu oštetiti koren i podzemne delove biljaka.<br><br>Preparat je registrovan za primenu u usevima paradajza, krompira i plavog patlidžana, u skladu sa važećom deklaracijom. Granule se primenjuju istovremeno sa sadnjom, čime se zaštita usmerava na štetočine prisutne u zemljištu tokom početnih faza razvoja biljaka.<br><br>Preporučena količina primene navedena u uputstvu proizvođača iznosi 12–15 kg/ha. Preparat se ne meša sa drugim sredstvima tokom primene, a na istoj površini može se koristiti najviše jednom godišnje. Na tretirane površine ne treba dozvoliti pristup domaćim životinjama najmanje 28 dana od primene. Pre upotrebe obavezno proverite važeću deklaraciju i pridržavajte se svih propisanih mera zaštite."
+},
+  
+{
+  "name": "Bonus sprej 500 ml",
+  "slug": "bonus-sprej-500ml",
+  "category": "Sredstva za zaštitu bilja",
+  "price": "450 RSD",
+  "image": "assets/images/bonus-sprej-500ml.webp",
+  "short_description": "Kombinovani preparat 2u1 za sobne i vrtne biljke, koji objedinjuje zaštitu od štetnih insekata i folijarnu prihranu.",
+  "description": "Bonus sprej 2u1 namenjen je nezi ukrasnih biljaka u domu, na terasi i u bašti. Njegova posebnost je kombinacija insekticidnog delovanja i mineralnih hranljivih materija, koje biljka usvaja preko listova.<br><br>Preparat sadrži acetamiprid, aktivnu materiju koja deluje na određene štetne insekte, uključujući zelene lisne vaši, bele leptiraste vaši, tripsa, smotavce i gusenice. Mineralne komponente doprinose ishrani biljaka i podržavaju rast listova, stabljike i korena.<br><br>Sprej je spreman za primenu i nanosi se direktno na listove biljaka, u skladu sa deklaracijom. Pre tretiranja pažljivo pročitajte uputstvo proizvođača i poštujte navedene mere zaštite. Ne primenjujte ga na kulturama ili protiv štetočina koje nisu obuhvaćene deklaracijom."
+},
+  
+{
+  "name": "Fito Neopirox S 150 ml",
+  "slug": "fito-neopirox-s-150ml",
+  "category": "Insekticidi",
+  "price": "250 RSD",
+  "image": "assets/images/fito-neopirox-s-150ml.webp",
+  "short_description": "Sprej za zaštitu sobnog i vrtnog cveća od lisnih vaši, tripsa i drugih štetnih insekata, spreman za direktnu primenu.",
+  "description": "Fito Neopirox S je insekticidni preparat namenjen zaštiti ukrasnih biljaka od štetočina koje mogu oštetiti listove, mlade izdanke i pupoljke. Koristi se za negu sobnog i vrtnog cveća kada se pojave lisne vaši, tripsi, pipe i drugi insekti obuhvaćeni deklaracijom proizvoda.<br><br>Preparat sadrži permetrin i dolazi u praktičnoj bočici sa raspršivačem, što omogućava jednostavno nanošenje bez prethodnog razblaživanja. Prilikom tretiranja pratite uputstvo na pakovanju i ravnomerno poprskajte biljku na način koji je predviđen za konkretan proizvod.<br><br>Pre upotrebe pažljivo pročitajte deklaraciju i proverite preporučeni razmak između tretiranja, kao i sve mere predostrožnosti. Preparat čuvajte u originalnoj ambalaži, van domašaja dece i kućnih ljubimaca, i izbegavajte primenu na biljkama ili mestima koja nisu navedena u uputstvu."
+},
+  
+{
+  "name": "Fito Neopirox S 500 ml",
+  "slug": "fito-neopirox-s-500ml",
+  "category": "Insekticidi",
+  "price": "400 RSD",
+  "image": "assets/images/fito-neopirox-s-500ml.webp",
+  "short_description": "Gotov insekticidni sprej za zaštitu sobnog i vrtnog cveća od biljnih vaši i drugih štetnih insekata.",
+  "description": "Fito Neopirox S proizvođača Ekosan namenjen je zaštiti ukrasnih biljaka od lisnih vaši, tripsa, pipa i sličnih štetočina. Pogodan je za negu sobnog i vrtnog cveća, naročito kada se na listovima, mladim izdancima ili pupoljcima primete znaci napada insekata.<br><br>Preparat sadrži permetrin u koncentraciji od 0,5%, aktivnu materiju sa insekticidnim delovanjem. Dolazi spreman za upotrebu, u bočici sa raspršivačem, tako da nije potrebno pripremati rastvor razblaživanjem. Pre tretiranja bocu dobro promućkati, a preparat ravnomerno naneti na biljku sa udaljenosti od približno 15 cm, prema uputstvu proizvođača.<br><br>Za postizanje odgovarajućeg efekta, tretiranje se prema uputstvu može ponoviti nakon 8–10 dana. Pre primene proverite deklaraciju i pridržavajte se propisanih mera bezbednosti. Preparat čuvajte u originalnom pakovanju, van domašaja dece i kućnih ljubimaca."
+},
+  
+{
+  "name": "Pan sprej 500 ml",
+  "slug": "pan-sprej-500ml",
+  "category": "Insekticidi",
+  "price": "750 RSD",
+  "image": "assets/images/pan-sprej-500ml.webp",
+  "short_description": "Pan sprej u aerosolnom pakovanju od 500 ml, za praktičnu primenu u skladu sa namenom proizvoda i uputstvom proizvođača.",
+  "description": "Pan sprej dolazi u aerosolnom pakovanju koje omogućava jednostavno nanošenje preparata na mestima predviđenim za tretiranje. Pre upotrebe proverite deklaraciju kako biste utvrdili tačnu namenu proizvoda, ciljne štetočine i dozvoljene površine za primenu.<br><br>Pakovanje od 500 ml odgovara korisnicima kojima je potrebna veća količina proizvoda. Za pravilnu primenu važno je pridržavati se preporuka proizvođača u vezi sa načinom prskanja, provetravanjem prostora i eventualnim ograničenjima nakon tretmana.<br><br>Aerosolnu ambalažu čuvajte dalje od izvora toplote, direktne sunčeve svetlosti i otvorenog plamena. Preparat držite van domašaja dece i kućnih ljubimaca, izbegavajte udisanje raspršenog sadržaja i pažljivo pročitajte sva upozorenja na deklaraciji pre upotrebe."
+},
+  
+{
+  "name": "Pan sprej 200 ml",
+  "slug": "pan-sprej-200ml",
+  "category": "Insekticidi",
+  "price": "450 RSD",
+  "image": "assets/images/pan-sprej-200ml.webp",
+  "short_description": "Pan sprej u praktičnom pakovanju od 200 ml, namenjen tretiranju prema nameni i uputstvu navedenom na deklaraciji proizvoda.",
+  "description": "Pan sprej je preparat u aerosolnom pakovanju koji omogućava jednostavno nanošenje na predviđenom mestu primene. Pre korišćenja proverite deklaraciju kako biste utvrdili protiv kojih štetočina je proizvod namenjen, gde se sme koristiti i koje mere predostrožnosti treba poštovati.<br><br>Pakovanje od 200 ml lako se koristi i skladišti, a primena treba da bude ograničena na površine i prostore navedene u uputstvu proizvođača. Nemojte prskati u blizini hrane, posuđa ili hrane za životinje, osim ako deklaracija izričito dozvoljava takvu primenu.<br><br>Aerosolno pakovanje držite dalje od izvora toplote, otvorenog plamena i direktnog sunca. Koristite preparat uz odgovarajuće provetravanje i sprečite izlaganje dece i kućnih ljubimaca. Pre upotrebe pažljivo pročitajte upozorenja i uputstvo na ambalaži."
+},
+  
+{
+  "name": "Vaygon 200 g",
+  "slug": "vaygon-200g",
+  "category": "Insekticidi",
+  "price": "400 RSD",
+  "image": "assets/images/vaygon-200g.webp",
+  "short_description": "Vaygon insekticid u pakovanju od 200 grama, namenjen suzbijanju insekata u skladu sa deklaracijom proizvoda.",
+  "description": "Vaygon je insekticidni preparat koji se koristi za kontrolu neželjenih insekata. Pre upotrebe važno je proveriti deklaraciju kako bi se utvrdilo protiv kojih štetočina je konkretna formulacija namenjena i na kojim površinama ili u kojim prostorima je dozvoljena primena.<br><br>Pakovanje od 200 grama predstavlja praktičan izbor za korisnike kojima je potreban preparat za kontrolu insekata. Način primene, potrebna količina i eventualno razblaživanje zavise od uputstva proizvođača i ne treba ih određivati bez provere deklaracije.<br><br>Preparat čuvajte u originalnom pakovanju, odvojeno od hrane, hrane za životinje i predmeta za svakodnevnu upotrebu. Prilikom rukovanja poštujte navedene mere zaštite i sprečite pristup dece i kućnih ljubimaca. Koristite isključivo u skladu sa registrovanom namenom i uputstvom na pakovanju."
+},
+  
+{
+  "name": "Brodisan 100 ml",
+  "slug": "brodisan-100ml",
+  "category": "Sredstva za deratizaciju",
+  "price": "600 RSD",
+  "image": "assets/images/brodisan-100ml.webp",
+  "short_description": "Brodisan u tečnom obliku, u pakovanju od 100 ml. Za pravilnu identifikaciju namene i načina primene potrebno je proveriti deklaraciju konkretnog proizvoda.",
+  "description": "Brodisan je naziv koji se koristi za preparate namenjene kontroli štetočina, ali se namena i sastav mogu razlikovati u zavisnosti od konkretne formulacije. Zato je važno proveriti podatke na originalnom pakovanju pre upotrebe, posebno aktivnu materiju, ciljne organizme i registrovanu namenu.<br><br>Pakovanje od 100 ml omogućava praktično rukovanje manjom količinom tečnog preparata. Način primene, potrebno razblaživanje i mere predostrožnosti zavise od deklaracije proizvoda, pa se ne preporučuje primena bez prethodnog čitanja uputstva.<br><br>Preparat čuvajte u originalnom pakovanju, van domašaja dece i kućnih ljubimaca, i nemojte ga presipati u ambalažu za hranu ili piće. Pre upotrebe obavezno proverite deklaraciju kako biste osigurali bezbednu i pravilnu primenu."
+},
+  
+{
+  "name": "Brodisan meki mamak 1 kg – crveni i plavi",
+  "slug": "brodisan-meki-mamak-1kg-crveni-plavi",
+  "category": "Sredstva za deratizaciju",
+  "price": "1000 RSD",
+  "image": "assets/images/brodisan-meki-mamak-1kg-crveni-plavi.webp",
+  "short_description": "Brodisan meki mamak za kontrolu populacije miševa i pacova, dostupan u crvenoj i plavoj varijanti. Pakovanje od 1 kg namenjeno je korisnicima kojima je potrebna veća količina preparata za suzbijanje glodara.",
+  "description": "Miševi i pacovi mogu predstavljati problem u domaćinstvima, podrumima, skladištima, pomoćnim objektima i poljoprivrednim prostorima. Brodisan meki mamak namenjen je kontroli glodara, a oblik mamka prilagođen je primeni u skladu sa uputstvom proizvođača.<br><br>Pakovanje od 1 kg praktično je kada je potrebno tretirati više mesta na kojima su primećeni tragovi aktivnosti glodara. Pre primene proverite deklaraciju kako biste utvrdili tačnu aktivnu materiju, ciljne vrste i propisan način postavljanja mamka za odabranu varijantu.<br><br>Rodenticidi mogu biti veoma opasni za ljude, kućne ljubimce i druge životinje. Preparat koristite isključivo prema uputstvu na originalnom pakovanju, uz odgovarajuće mere zaštite i sprečavanje pristupa dece i životinja. Ne ostavljajte mamke na mestima gde mogu doći u kontakt sa hranom ili vodom."
+},
+  
+{
+  "name": "Ratimor 500 g",
+  "slug": "ratimor-500g",
+  "category": "Sredstva za deratizaciju",
+  "price": "700 RSD",
+  "image": "assets/images/ratimor-500g.webp",
+  "short_description": "Ratimor preparat za suzbijanje miševa i pacova, u pakovanju od 500 grama. Praktičan izbor za korisnike kojima je potrebna veća količina mamka za kontrolu glodara u objektima i njihovoj okolini.",
+  "description": "Miševi i pacovi mogu izazvati štetu na zalihama hrane, ambalaži, instalacijama i drugim materijalima, zbog čega je pravovremena kontrola njihove pojave važna u domaćinstvima, skladištima i pomoćnim prostorijama. Ratimor obuhvata preparate namenjene suzbijanju glodara, a konkretan način primene zavisi od formulacije proizvoda.<br><br>Pakovanje od 500 grama odgovara korisnicima kojima je potrebna veća količina preparata za planiranu deratizaciju. Pre upotrebe proverite da li je proizvod namenjen suzbijanju miševa, pacova ili obe vrste glodara, kao i koja je aktivna materija navedena na deklaraciji.<br><br>Rodenticidi mogu predstavljati ozbiljnu opasnost za ljude, kućne ljubimce i druge životinje. Preparat koristite isključivo prema uputstvu proizvođača, uz propisane mere zaštite i sprečavanje pristupa dece i životinja. Ne koristite ga na način koji nije naveden na deklaraciji."
+},
+  
+{
+  "name": "Ratimor 5 kg",
+  "slug": "ratimor-5kg",
+  "category": "Sredstva za deratizaciju",
+  "price": "5500 RSD",
+  "image": "assets/images/ratimor-5kg.webp",
+  "short_description": "Ratimor rodenticid u velikom pakovanju od 5 kg, namenjen suzbijanju miševa i pacova. Pogodan za korisnike kojima je potrebna veća količina preparata za kontrolu glodara.",
+  "description": "Prisustvo miševa i pacova u skladištima, pomoćnim objektima, podrumima i drugim prostorima može dovesti do oštećenja materijala i kontaminacije hrane. Ratimor je linija preparata za suzbijanje glodara, a izbor odgovarajuće formulacije zavisi od mesta primene i vrste problema.<br><br>Pakovanje od 5 kg namenjeno je situacijama u kojima je potrebna veća količina mamka za sprovođenje mera deratizacije. Prilikom planiranja tretmana važno je utvrditi mesta kretanja glodara i primeniti preparat isključivo na način predviđen deklaracijom konkretnog proizvoda.<br><br>Rodenticidi mogu biti opasni za ljude, kućne ljubimce i druge životinje. Mamke postavljajte u skladu sa uputstvom proizvođača, uz odgovarajuće mere zaštite i sprečavanje pristupa dece i životinja. Pre upotrebe proverite aktivnu materiju, formulaciju, registrovanu namenu i propisane mere bezbednosti na originalnom pakovanju."
+},
+  
+{
+  "name": "Ratimor meki mamak 150 g – crveni i plavi",
+  "slug": "ratimor-meki-mamak-150g-crveni-plavi",
+  "category": "Sredstva za deratizaciju",
+  "price": "350 RSD",
+  "image": "assets/images/ratimor-meki-mamak-150g-crveni-plavi.webp",
+  "short_description": "Ratimor je rodenticid u obliku mekog mamka, namenjen suzbijanju miševa i pacova u objektima i njihovoj okolini. Dostupan je u crvenoj i plavoj varijanti, u pakovanju od 150 grama.",
+  "description": "Meki mamak Ratimor sadrži atraktante koji pomažu u privlačenju glodara, a namenjen je primeni na mestima na kojima se miševi i pacovi kreću i zadržavaju. U zavisnosti od konkretne varijante, sastav i koncentracija aktivne materije mogu se razlikovati, zato je važno proveriti deklaraciju proizvoda pre upotrebe.<br><br>Preparat se koristi za kontrolu glodara u skladu sa namenom i uputstvom proizvođača. Mamke treba postavljati u odgovarajuće deratizacione kutije, na mestima nedostupnim deci i drugim životinjama. Ne dodirujte mamak golim rukama i ne uklanjajte ga iz originalnih kesica ako je tako propisano na deklaraciji.<br><br>Ratimor sadrži otrovnu aktivnu materiju koja može predstavljati ozbiljan rizik za kućne ljubimce i druge životinje, uključujući slučajeve sekundarnog trovanja nakon kontakta sa otrovanim glodarima. Pažljivo pročitajte uputstvo i bezbednosne mere navedene na pakovanju i koristite isključivo u skladu sa registrovanom namenom."
+},
+  
+{
+  "name": "Slavol 1 litar",
+  "slug": "slavol-1l",
+  "category": "Đubriva i prihrana",
+  "price": "700 RSD",
+  "image": "assets/images/slavol-1l.webp",
+  "short_description": "Tečno mikrobiološko đubrivo i biostimulator rasta biljaka, namenjen folijarnoj prihrani u ratarstvu, povrtarstvu i cvećarstvu.",
+  "description": "Slavol je namenjen biljkama kojima je potrebna podrška u rastu i boljem iskorišćavanju hranljivih materija tokom vegetacije. Njegov sastav obuhvata korisne mikroorganizme, uključujući bakterije koje učestvuju u vezivanju atmosferskog azota i pretvaranju fosfora iz organskih jedinjenja u biljkama pristupačnije oblike. Sadrži i prirodno nastale auksine, materije koje učestvuju u regulaciji rasta i razvoja biljaka.<br><br>Može se koristiti na različitim ratarskim kulturama, kao što su pšenica, ječam, kukuruz, soja i suncokret, kao i na povrću, uključujući paradajz, papriku i krastavac. Namenjen je i prihrani cveća i ukrasnog bilja. Pravilna primena može doprineti razvoju korenovog sistema, povećanju lisne mase i boljem podnošenju stresnih uslova tokom rasta.<br><br>Slavol se primenjuje prskanjem preko listova, a preporučena količina zavisi od kulture i faze razvoja biljke. Za pojedine povrtarske kulture i ukrasno bilje predviđene su i druge metode primene, u skladu sa deklaracijom. Pre tretiranja proverite uputstvo proizvođača, naročito preporučenu dozu i kompatibilnost sa drugim preparatima."
+},
+  
+{
+  "name": "Slavol 100 ml",
+  "slug": "slavol-100ml",
+  "category": "Đubriva i prihrana",
+  "price": "170 RSD",
+  "image": "assets/images/slavol-100ml.webp",
+  "short_description": "Tečno mikrobiološko đubrivo i biostimulator rasta proizvođača Agrounik, namenjeno primeni u ratarskoj i povrtarskoj proizvodnji, kao i u cvećarstvu.",
+  "description": "Slavol sadrži korisne mikroorganizme i prirodno nastale regulatore rasta koji doprinose boljem razvoju biljaka i efikasnijem usvajanju hranljivih materija. Bakterije u njegovom sastavu učestvuju u procesima koji omogućavaju biljkama bolju dostupnost azota i fosfora, dok auksini podržavaju različite fiziološke procese tokom rasta i razvoja.<br><br>Proizvod se koristi za prihranu različitih kultura, uključujući pšenicu, kukuruz, suncokret, soju, paradajz, papriku, krastavac i ukrasno bilje. U zavisnosti od kulture i načina primene, može doprineti razvoju korenovog sistema, povećanju lisne mase i boljem formiranju plodova. Pogodan je za primenu u organskoj i konvencionalnoj poljoprivrednoj proizvodnji.<br><br>Slavol se može primenjivati folijarno, odnosno prskanjem preko listova, a za pojedine kulture i načine uzgoja predviđena je i primena zalivanjem. Preporučena koncentracija i količina zavise od kulture i načina primene, zato se pre tretiranja obavezno pridržavajte uputstva sa deklaracije proizvoda."
+},
+  
+{
+  "name": "Hrana za kanarince 400 g",
+  "slug": "hrana-za-kanarince-400g",
+  "category": "Hrana za ptice",
+  "price": "200 RSD",
+  "image": "assets/images/hrana-za-kanarince-400g.webp",
+  "short_description": "Hrana za kanarince za vlasnike koji žele da svojim pevačicama obezbede odgovarajuću osnovu svakodnevne ishrane. Praktično pakovanje od 400 grama pogodno je za držanje u kućnim uslovima.",
+  "description": "Kanarincima je potrebna redovna i uravnotežena ishrana koja podržava njihovu vitalnost, aktivnost i dobro opšte stanje. Prilikom izbora hrane važno je voditi računa o potrebama ptice, posebno tokom perioda mitarenja i drugih faza kada se njene nutritivne potrebe mogu menjati.<br><br>Hranu držite na suvom i hladnom mestu, zaštićenu od vlage i direktnog izvora toplote. Redovno uklanjajte ostatke iz hranilice, održavajte posudu čistom i obezbedite kanarincu svežu vodu svakog dana.<br><br>Pošto tačan sastav proizvoda nije naveden, proverite deklaraciju na pakovanju kako biste utvrdili koje sastojke sadrži i da li odgovara potrebama vaše ptice. Za potpuniju ishranu mogu biti potrebni i drugi odgovarajući izvori hranljivih materija, u zavisnosti od sastava osnovne hrane."
+},
+
+{
+  "name": "Hrana za nimfe 400 g",
+  "slug": "hrana-za-nimfe-400g",
+  "category": "Hrana za ptice",
+  "price": "150 RSD",
+  "image": "assets/images/hrana-za-nimfe-400g.webp",
+  "short_description": "Mešavina hrane za nimfe, srednje velike papagaje poznate po svojoj druželjubivosti i karakterističnoj ćubi. Pakovanje od 400 grama pogodno je za redovno snabdevanje hranilice u kućnim uslovima.",
+  "description": "Nimfe su aktivne i radoznale ptice kojima je potrebna pažljivo odabrana ishrana kako bi ostale vitalne i u dobroj kondiciji. Prilikom izbora hrane važno je uzeti u obzir potrebe ptice, njenu starost i nivo aktivnosti.<br><br>Hranu čuvajte u suvom i čistom prostoru, zaštićenu od vlage, kako bi zadržala svoj kvalitet. Hranilicu redovno čistite i obezbedite nimfi stalno dostupnu svežu vodu.<br><br>Sastav konkretne mešavine nije naveden, pa proverite deklaraciju na pakovanju i koristite proizvod u skladu sa uputstvima proizvođača. Za uravnoteženu ishranu, sama semenska mešavina ne mora biti dovoljna, te je važno razmotriti i druge odgovarajuće izvore hranljivih materija."
+},
+  
+{
+  "name": "Hrana za tigrice 400 g",
+  "slug": "hrana-za-tigrice-400g",
+  "category": "Hrana za ptice",
+  "price": "150 RSD",
+  "image": "assets/images/hrana-za-tigrice.webp",
+  "short_description": "Hrana za tigrice namenjena svakodnevnoj ishrani ovih malih i živahnih papagaja. Pakovanje od 400 grama predstavlja praktičan izbor za vlasnike koji žele da svojim ljubimcima obezbede redovan obrok.",
+  "description": "Hrana za tigrice namenjena je ishrani tigrica koje se drže kao kućni ljubimci. Ove male papagaje odlikuju živahnost i radoznalost, pa je važno obezbediti im redovnu i odgovarajuću ishranu prilagođenu njihovim potrebama.<br><br>Pakovanje od 400 grama praktično je za svakodnevno hranjenje i dopunjavanje hranilice. Hranu čuvajte na suvom i hladnom mestu, zaštićenu od vlage i nečistoća, kako bi se očuvao njen kvalitet.<br><br>Za dobrobit tigrica važno je da uvek imaju pristup svežoj vodi i da im se ishrana prilagodi njihovim potrebama. Tačan sastav ove hrane nije naveden, pa pre upotrebe proverite deklaraciju na pakovanju."
+},
+
+
   {
 "name": "Ampligo 5 ml insekticid",
 "slug": "ampligo-5ml-insekticid",
@@ -38,6 +370,37 @@
 "image": "assets/images/tonus-mospilan-2-5g.webp",
 "short_description": "Tonus Mospilan 2,5 g je insekticid na bazi acetamiprida namenjen suzbijanju lisnih vaši, tripsa i drugih štetnih insekata na poljoprivrednim kulturama.",
 "description": "Preparat sadrži acetamiprid, sistemičnu aktivnu materiju koja se usvaja kroz biljne delove i deluje na insekte koji se hrane tretiranom biljkom. Namenjen je zaštiti od štetočina kao što su lisne vaši, tripsi, bela leptirasta vaš i određene druge vrste insekata, u zavisnosti od registrovane primene.<br><br>Tretiranje se obavlja prskanjem biljaka kada se primete prve štetočine, pri čemu je važno dobro pokriti biljne delove na kojima se insekti zadržavaju. Sistemично delovanje omogućava aktivnoj materiji da dospe i u biljna tkiva koja nisu direktno pogođena prskanjem.<br><br>Može se koristiti na različitim vrstama voća, povrća i ukrasnog bilja, ali se konkretna doza, kultura, ciljna štetočina i broj tretmana moraju odrediti prema važećoj deklaraciji proizvoda. Ne preporučuje se povećavanje koncentracije iznad propisane doze.<br><br>Pakovanje od 2,5 g pogodno je za tretiranje manjih površina i kućnih bašta. Prilikom primene koristiti odgovarajuću zaštitnu opremu i pridržavati se svih uputstava proizvođača, uključujući propisanu karencu."
+},
+
+
+{
+  "name": "Signum fungicid 500 g",
+  "slug": "signum-fungicid-500g",
+  "category": "Fungicidi",
+  "price": "7000 RSD",
+  "image": "assets/images/signum-fungicid-500g.webp",
+  "short_description": "Fungicid za ciljanu zaštitu voćarskih i povrtarskih kultura od određenih gljivičnih bolesti.",
+  "description": "Signum je fungicid u obliku vododisperzibilnih granula, sa aktivnim materijama boskalidom i piraklostrobinom. Koristi se za suzbijanje gljivičnih bolesti u kulturama za koje je registrovan, a izbor tretmana zavisi od vrste biljke i prisutnog patogena. Pakovanje od 500 g namenjeno je korisnicima kojima je potrebna veća količina preparata. Pre upotrebe obavezno proverite deklaraciju radi tačnog doziranja, dozvoljenih namena, vremena primene i karence. Koristiti isključivo prema uputstvu na pakovanju."
+},
+
+{
+  "name": "Signum fungicid 100 g",
+  "slug": "signum-fungicid-100g",
+  "category": "Fungicidi",
+  "price": "1500 RSD",
+  "image": "assets/images/signum-fungicid-100g.webp",
+  "short_description": "Fungicid za zaštitu poljoprivrednih kultura od određenih gljivičnih bolesti.",
+  "description": "Signum je fungicid u obliku vododisperzibilnih granula, koji sadrži aktivne materije boskalid i piraklostrobin. Koristi se za suzbijanje određenih gljivičnih oboljenja u kulturama za koje je preparat registrovan. Namenjen je poljoprivrednim proizvođačima kojima je potrebna ciljana zaštita useva i plodova. Pre primene obavezno proverite deklaraciju za dozvoljene kulture, ciljane bolesti, doziranje i karencu. Preparat koristite isključivo prema uputstvu na pakovanju."
+},
+
+{
+  "name": "Signum fungicid 30 g",
+  "slug": "signum-fungicid-30g",
+  "category": "Fungicidi",
+  "price": "600 RSD",
+  "image": "assets/images/signum-fungicid-30g.webp",
+  "short_description": "Sistemični fungicid širokog spektra za zaštitu voća i povrća od različitih gljivičnih bolesti.",
+  "description": "Signum je fungicid u obliku vododisperzibilnih granula, sa dve aktivne materije: boskalidom i piraklostrobinom. Deluje preventivno i kurativno i koristi se u zaštiti različitih voćarskih i povrtarskih kultura od bolesti kao što su siva trulež, trulež plodova i pegavosti. Namenjen je primeni u kulturama navedenim na deklaraciji proizvoda. Doza, vreme tretiranja i karenca zavise od kulture i bolesti koja se suzbija, zato se preparat mora koristiti u skladu sa uputstvom na pakovanju."
 },
 
   {
@@ -103,7 +466,7 @@
   {
 "name": "Gorka so (Magnezijum sulfat) 60 g",
 "slug": "gorka-so-magnezijum-sulfat-60g",
-"category": "Đubriva",
+"category": "Đubriva i prihrana",
 "price": "150 RSD",
 "image": "assets/images/gorka-so-magnezijum-sulfat-60g.webp",
 "short_description": "Gorka so je magnezijum sulfat koji se koristi kao dopunska prihrana biljaka kada je potrebno obezbediti magnezijum i sumpor.",
@@ -111,7 +474,7 @@
 },
 
   {
-"name": "Krompir Desire 1 kg",
+"name": "Krompir Desire 1 kg (na proleće)",
 "slug": "krompir-desire-1kg",
 "category": "Sadni materijal",
 "price": "90 RSD",
@@ -173,7 +536,7 @@
   {
 "name": "Fertor 25/1 organsko đubrivo",
 "slug": "fertor-25-1-organsko-djubrivo",
-"category": "Đubriva",
+"category": "Đubriva i prihrana",
 "price": "80 RSD",
 "image": "assets/images/fertor-25-1-organsko-djubrivo.webp",
 "short_description": "Fertor 25/1 je organsko đubrivo namenjeno prihrani i poboljšanju uslova za rast biljaka u poljoprivredi i baštovanstvu.",

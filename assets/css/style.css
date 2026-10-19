@@ -299,7 +299,7 @@ main {
 
 .product-card {
   background: var(--color-bg-elevated);
-  border: 1px solid var(--color-border);
+  border: 2px solid rgb(27, 189, 6);
   border-radius: var(--radius-lg);
   padding: 1.35rem;
   transition: transform var(--duration) var(--ease),
@@ -311,7 +311,7 @@ main {
 .product-card:hover {
   transform: translateY(-6px);
   box-shadow: var(--shadow-md);
-  border-color: #d1d5db;
+  border-color: #7c9fd3;
 }
 
 .product-card img {
