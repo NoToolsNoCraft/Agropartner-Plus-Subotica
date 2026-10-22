@@ -26,6 +26,43 @@ title: Poljoprivredna Apoteka Subotica
 
     </section>
 
+    <section class="catalog-promo">
+
+    <div class="catalog-promo-content">
+
+        <p class="section-eyebrow">
+            AKTUELNA PONUDA
+        </p>
+
+        <h2>
+            Katalog za jesen 2026.
+        </h2>
+
+        <p>
+            Pogledajte naš jesenji katalog i upoznajte se
+            sa izdvojenom ponudom proizvoda za poljoprivredu
+            i baštu.
+        </p>
+
+        <a
+            href="/katalog/jesen-2026.pdf"
+            class="hero-button"
+            target="_blank"
+            rel="noopener"
+        >
+            Pogledaj katalog →
+        </a>
+
+    </div>
+
+    <div class="catalog-promo-icon" aria-hidden="true">
+        <span>PDF</span>
+        <span class="catalog-promo-icon-title">KATALOG</span>
+        <span>JESEN 2026.</span>
+    </div>
+
+</section>
+
     <section class="about-section">
 
 
@@ -40,6 +77,8 @@ title: Poljoprivredna Apoteka Subotica
     </h2>
 
 </div>
+
+
 
 <div class="about-content">
 
@@ -78,6 +117,8 @@ title: Poljoprivredna Apoteka Subotica
 
 
 </section>
+
+
 
 
     <section class="featured-products">
@@ -154,6 +195,10 @@ title: Poljoprivredna Apoteka Subotica
     </div>
 
 </section>
+
+
+
+
 
 <section class="contact-section">
 
